@@ -1,8 +1,9 @@
 1. Sistem apa yang anda kembangkan pada mata kuliah ini?
-Jawab:
+Jawab:Sistem yang dikembangkan pada mata kuliah ini adalah sistem pemesanan penginapan 
 
 2. Apa tujuan anda mengembangkan sistem tersebut?
-Jawab:
+Jawab:Tujuan dikembangkannya sistem ini adalah untuk memudahkan user mencari dan memesan penginapan
+tanpa harus datang langsung. Selain itu dengan dikembangkannya sistem ini dapat membantu mitra untuk mempromosikan penginapannya
 
 3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
-Jawab:
+Jawab:Harapan yang ingin didapat adalah user terbantu dalam proses pemesanan penginapan dengan cepat.
